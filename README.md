@@ -115,6 +115,14 @@ Authorization: Bearer <token>
 #### Delete Book
 - **DELETE** `/api/books/:id`
 
+## Sample Screenshots
+
+### API Response Example
+![API Response Example](https://ik.imagekit.io/ubweioxhb/WhatsApp%20Image%202025-04-09%20at%2023.37.09_cec289a4.jpg)
+
+
+![Database Schema](https://ik.imagekit.io/ubweioxhb/WhatsApp%20Image%202025-04-09%20at%2023.36.22_bf7271a2.jpg)
+
 ## Error Handling
 
 The API uses standard HTTP status codes and returns errors in the following format:
